@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120px">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150px">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gayathri&label=Profile%20views&color=0e75b6&style=flat" />
