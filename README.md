@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=GAYATHRI&fontSize=35&fontColor=ffffff" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120px">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gayathri&label=Profile%20views&color=0e75b6&style=flat" />
