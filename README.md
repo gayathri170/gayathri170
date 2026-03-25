@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Gayathri%20Ramya&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=GAYATHRI&fontSize=35&fontColor=ffffff" />
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gayathri170&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=gayathri&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gayathri</h1>
