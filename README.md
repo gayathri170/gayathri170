@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Gayathri</h1>
+<h1 align="center">Hi 👋, I'm Gayathri — Aspiring Full Stack Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF61F6&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;Java+%7C+Spring+Boot;Learning+Angular;Problem+Solver+🚀" />
