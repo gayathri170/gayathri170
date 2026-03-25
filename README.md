@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23d9b61b-693a-4973-930b-1f29f45e2f80" width="200px"/>
+  <img src="https://github.com/user-attachments/assets/23d9b61b-693a-4973-930b-1f29f45e2f80" width="100px"/>
 </p>
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Gayathri — Aspiring Full Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm Gayathri </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF61F6&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;Java+%7C+Spring+Boot;Learning+Angular;Problem+Solver+🚀" />
